@@ -70,8 +70,11 @@
 }
 .light-blue{
 	background-color: #BDCCD4;
+	padding: 90px;
+	box-sizing: border-box;
 }
 .image-box{
 	width: 270px;
+	flex-wrap: nowrap;
 }
 
