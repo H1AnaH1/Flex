@@ -49,3 +49,29 @@
 .active::after{
 	display: none;
 }
+.banner{
+	background-color: #e6e6e6;
+	padding: 30px;
+}
+.blue-bg{
+	background-color: #363E97;
+	padding: 89px;
+	box-sizing: border-box;
+
+}
+.bg2{
+	background-color: #f2f2f2;
+	width: 570px;
+	height: 320px;
+	margin-right: 30px;
+}
+.bg:last-child{
+	margin-right: 0;
+}
+.light-blue{
+	background-color: #BDCCD4;
+}
+.image-box{
+	width: 270px;
+}
+
