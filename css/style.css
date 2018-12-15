@@ -7,13 +7,16 @@
 }
 .header{
 	padding: 20px 0;
+	position: fixed;	
+	background-color:silver;
+	width: 100%;
 
 }
 .flex{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-
+    
 }
 
 .nav-ul{
